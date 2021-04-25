@@ -1,0 +1,12 @@
+server:
+  port: 8988
+#  servlet:
+#    context-path: /test
+#spring:
+#  mvc:
+#    view:
+#      prefix: /
+#      suffix: .html
+spring:
+  application:
+    name: demo-bootstrap-table3
